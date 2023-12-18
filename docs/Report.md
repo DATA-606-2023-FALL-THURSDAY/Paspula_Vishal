@@ -7,6 +7,8 @@ GitHub Project Link: https://github.com/VishalYadavPaspula/UMBC-DATA606-FALL2023
 
 Presentation Link: Paspula_Vishal_Capstone_Project.pptx
 
+YouTube Link: https://youtu.be/-rppWBFrH8s
+
 ### Background
 
 The project focuses on the detection and identification of deep fake images, leveraging a sophisticated blend of machine learning techniques. At its core, the project aims to differentiate between real and manipulated images, particularly those that have been altered using advanced deep learning methods. By analyzing a dataset comprising both authentic and altered images, the project endeavors to train a predictive model capable of accurately identifying deep fakes.
