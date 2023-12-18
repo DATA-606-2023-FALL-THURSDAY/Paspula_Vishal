@@ -3,6 +3,7 @@ Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang
 Author: Vishal Yadav Paspula, UMBC, Fall-2023 Semester
 LinkedIn Profile:  https://www.linkedin.com/feed/
 GitHub Project Link: https://github.com/VishalYadavPaspula/UMBC-DATA606-FALL2023-THURSDAY/blob/main/Vishal_606_Captson_project.md 
+
 Presentation Link: Paspula_Vishal_Capstone_Project.pptx
 
 ### Background
