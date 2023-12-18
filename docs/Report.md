@@ -1,3 +1,10 @@
+### 1. Title and Author
+Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang
+Author: Vishal Yadav Paspula, UMBC, Fall-2023 Semester
+LinkedIn Profile: https://www.linkedin.com/feed/
+GitHub Project Link: https://github.com/VishalYadavPaspula/UMBC-DATA606-FALL2023-THURSDAY/blob/main/Vishal_606_Captson_project.md
+Presentation Link: Paspula_Vishal_Capstone_Project.pptx
+
 ### Background
 
 The project focuses on the detection and identification of deep fake images, leveraging a sophisticated blend of machine learning techniques. At its core, the project aims to differentiate between real and manipulated images, particularly those that have been altered using advanced deep learning methods. By analyzing a dataset comprising both authentic and altered images, the project endeavors to train a predictive model capable of accurately identifying deep fakes.
